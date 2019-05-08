@@ -1,10 +1,10 @@
-#Thu May 09 01:15:13 AST 2019
+#Thu May 09 01:30:30 AST 2019
 javarush.level.filter=-1
 javarush.skip.set.autoscrolls=true
 javarush.session.id=6D2DDC1D110F0D6A6E04A0FF6840FD90
-javarush.last.task.key=com.javarush.task.task06.task0615
+javarush.last.task.key=com.javarush.task.task06.task0618
 javarush.status.filter=ASSIGNED
 javarush.query.filter=
 javarush.user.secretkey=e49c5658-709c-47c1-8213-48d8fb2aaa74
-javarush.last.task.path=C\:/Users/JR/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task06/task0615
+javarush.last.task.path=C\:/Users/JR/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task06/task0618
 javarush.quest.filter=ALL_QUESTS

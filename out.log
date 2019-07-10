@@ -1278,3 +1278,15 @@
 2019-06-29 16:49:27 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-06-29 16:50:28 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-06-29 16:51:27 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-07-11 01:16:38 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-07-11 01:16:38 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.31 ----------
+
+2019-07-11 01:16:38 INFO  ApacheHttpClient.createAsyncHttpClient(135) - 1 proxies selected. Type: DIRECT
+2019-07-11 01:16:38 INFO  ApacheHttpClient.<init>(93) - ApacheHttpClient was successfully instantiated.
+2019-07-11 01:16:39 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-07-11 01:16:39 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-07-11 01:16:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(585) - Waiting for server response.
+2019-07-11 01:16:39 INFO  ApacheHttpClient.refreshUserInfo(293) - responseCode = 200
+2019-07-11 01:16:39 INFO  ApacheHttpClient.refreshUserInfo(299) - User information received.
+2019-07-11 01:16:39 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-07-11 01:16:39 WARN  PluginUtil.isProjectStructureCorrect(344) - The project structure is invalid.

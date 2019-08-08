@@ -22,6 +22,6 @@ public class Solution {
 
     public static int max(int[] array) {
         // найди максимальное значение
-        return 0;
+        return 0 ;
     }
 }

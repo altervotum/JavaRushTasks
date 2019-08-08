@@ -11,7 +11,7 @@ public class Solution {
 
     public static int getMetreFromCentimetre(int centimetre) {
         //напишите тут ваш код
-        int d = centimetre/100;
+        int d = centimetre/100 ;
         return (d);
     }
 }

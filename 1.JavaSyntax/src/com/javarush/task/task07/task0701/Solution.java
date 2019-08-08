@@ -17,7 +17,7 @@ public class Solution {
 
     public static int[] initializeArray() throws IOException {
         // создай и заполни массив
-        return null;
+        return null ;
     }
 
     public static int max(int[] array) {
